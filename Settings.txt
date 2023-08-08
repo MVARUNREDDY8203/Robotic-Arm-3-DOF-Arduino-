@@ -1,0 +1,10 @@
+ServoBaseMin=0
+ServoBaseMax=180
+ServoLeftMin=0
+ServoLeftMax=180
+ServoRightMin=0
+ServoRightMax=180
+ServoClawMin=0
+ServoClawMax=180
+Ver=1.01
+ComPort=COM3
